@@ -1,0 +1,13 @@
+library ieee;
+use ieee. std_logic_1164.all;
+use ieee. std_logic_arith.all;
+use ieee. std_logic_unsigned.all;
+
+entity restador is
+	port (
+			a, b, bin, clk: in std_logic;
+			r, bout: out std_logic;
+end restador;
+
+architecture behavioral of restador is
+
