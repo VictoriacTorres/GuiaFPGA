@@ -6,7 +6,7 @@ use ieee. std_logic_unsigned.all;
 entity restador is
 	port (
 			in_a, in_b, in_bin, clk: in std_logic;
-			o_r, o_bout: out std_logic;
+			o_r, o_bout: out std_logic); -- r resta, bin borrow in
 end restador;
 
 architecture behavioral of restador is
@@ -23,5 +23,9 @@ begin
 
 D1: D_FF port map (in_a, clk, a);
 D2: D_FF port map (in_b, clk, b);
+D3: D_FF port map (in_bin, clk, bin);
+D4: D_FF port map (bout, clk, o_bout);
+D5: D_FF port map (r, clk, o_r);
+end behavioral;
 
 	
