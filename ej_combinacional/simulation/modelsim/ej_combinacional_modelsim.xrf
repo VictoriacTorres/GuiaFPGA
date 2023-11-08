@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/torre/OneDrive/Escritorio/GuiaFPGA/ej_combinacional/ej_combinacional.vhd
+source_file = 1, C:/Users/torre/OneDrive/Escritorio/GuiaFPGA/ej_combinacional/Waveform.vwf
+source_file = 1, C:/Users/torre/OneDrive/Escritorio/GuiaFPGA/ej_combinacional/ej_comb_testbench.vhd
+source_file = 1, C:/Users/torre/OneDrive/Escritorio/GuiaFPGA/ej_combinacional/Block1.bdf
+source_file = 1, C:/Users/torre/OneDrive/Escritorio/GuiaFPGA/ej_combinacional/db/ej_combinacional.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = Block1
+instance = comp, \led~output\, led~output, Block1, 1
+instance = comp, \SW2~input\, SW2~input, Block1, 1
+instance = comp, \SW1~input\, SW1~input, Block1, 1
+instance = comp, \inst|led~0\, inst|led~0, Block1, 1

@@ -1,0 +1,12 @@
+|Block1
+led <= ej_combinaiconal:inst.led
+SW1 => ej_combinaiconal:inst.SW1
+SW2 => ej_combinaiconal:inst.SW2
+
+
+|Block1|ej_combinaiconal:inst
+SW1 => led.IN0
+SW2 => led.IN1
+led <= led.DB_MAX_OUTPUT_PORT_TYPE
+
+

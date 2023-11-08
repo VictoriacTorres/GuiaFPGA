@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\torre\OneDrive\Escritorio\GuiaFPGA\ej_combinacional\simulation\modelsim
+Eej_comb_testbench
+Z1 w1699403337
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\torre\OneDrive\Escritorio\GuiaFPGA\ej_combinacional\simulation\modelsim
+Z5 8C:/Users/torre/OneDrive/Escritorio/GuiaFPGA/ej_combinacional/ej_comb_testbench.vhd
+Z6 FC:/Users/torre/OneDrive/Escritorio/GuiaFPGA/ej_combinacional/ej_comb_testbench.vhd
+l0
+L4
+VA5Vaz7PAdcUi5[JLCOo9f2
+!s100 Y9jPY2HzgUJNQFN7EmGDc0
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1699403463.261000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/torre/OneDrive/Escritorio/GuiaFPGA/ej_combinacional/ej_comb_testbench.vhd|
+Z10 !s107 C:/Users/torre/OneDrive/Escritorio/GuiaFPGA/ej_combinacional/ej_comb_testbench.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Abehavior
+R2
+R3
+DEx4 work 17 ej_comb_testbench 0 22 A5Vaz7PAdcUi5[JLCOo9f2
+l18
+L7
+V?<gLJHjTbQzABPRLFR40B2
+!s100 6=g3<kbbRR4LiFla3aO:_2
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Eej_combinaiconal
+Z13 w1699403384
+Z14 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+Z15 DPx10 cycloneiii 20 cycloneiii_atom_pack 0 22 n^46VOjinLK5_01fgQc6Z0
+Z16 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+R2
+R3
+Z17 DPx10 cycloneiii 21 cycloneiii_components 0 22 VeH8af>S`B?U[[D6_Khe@0
+R4
+Z18 8ej_combinacional_7_1200mv_85c_slow.vho
+Z19 Fej_combinacional_7_1200mv_85c_slow.vho
+l0
+L34
+V4:SZOeQ1gK@g9;HM3Lfff1
+R7
+31
+Z20 !s108 1699403462.980000
+Z21 !s90 -reportprogress|300|-93|-work|work|ej_combinacional_7_1200mv_85c_slow.vho|
+Z22 !s107 ej_combinacional_7_1200mv_85c_slow.vho|
+R11
+R12
+!s100 0;QVRR[bEie:?GKb46mi63
+!i10b 1
+Astructure
+R14
+R15
+R16
+R2
+R3
+R17
+DEx4 work 16 ej_combinaiconal 0 22 4:SZOeQ1gK@g9;HM3Lfff1
+l67
+L48
+VZ400l88nKHQ?<ORUP`aP43
+R7
+31
+R20
+R21
+R22
+R11
+R12
+!s100 1o`BhRzJa[m2_maoXK5VR3
+!i10b 1
