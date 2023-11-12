@@ -1,0 +1,15 @@
+|maqestados
+reset => fstate~3.DATAIN
+clock => fstate~1.DATAIN
+x => Selector0.IN1
+x => Selector7.IN5
+x => Selector4.IN1
+x => Selector3.IN4
+x => Selector2.IN0
+x => Selector5.IN0
+Z1 <= Z1.DB_MAX_OUTPUT_PORT_TYPE
+Z2 <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+Z3 <= WideOr7.DB_MAX_OUTPUT_PORT_TYPE
+Z4 <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+
+

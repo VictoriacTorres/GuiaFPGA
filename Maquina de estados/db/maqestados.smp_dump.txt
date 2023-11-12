@@ -1,0 +1,11 @@
+
+State Machine - |maqestados|fstate
+Name fstate.B5 fstate.B4 fstate.B3 fstate.B2 fstate.A4 fstate.A3 fstate.A2 fstate.A1 
+fstate.A1 0 0 0 0 0 0 0 0 
+fstate.A2 0 0 0 0 0 0 1 1 
+fstate.A3 0 0 0 0 0 1 0 1 
+fstate.A4 0 0 0 0 1 0 0 1 
+fstate.B2 0 0 0 1 0 0 0 1 
+fstate.B3 0 0 1 0 0 0 0 1 
+fstate.B4 0 1 0 0 0 0 0 1 
+fstate.B5 1 0 0 0 0 0 0 1 
